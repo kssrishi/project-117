@@ -1,0 +1,15 @@
+body{
+background-color: rgb(44, 159, 182);
+}
+#score{
+    font-size: 30;
+    margin-left:20px ;
+}
+#timer{
+    font-size: 30px;
+    float:right;
+    margin-right: 150px;
+}
+#drawn_sketch{
+    color:red;
+}
